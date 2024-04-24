@@ -8,8 +8,6 @@ This project is a movie recommendation system designed to help users discover ne
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
